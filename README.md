@@ -17,6 +17,9 @@ Here are the technologies used to build this project:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 **React**: For building the user interface and managing application state.
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+**TypeScript**: For adding static typing and enhancing code quality.
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 **Tailwind CSS**: For creating a responsive and visually appealing design.
 
